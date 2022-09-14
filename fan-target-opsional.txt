@@ -6,3 +6,4 @@ Target Opsional Isfan
 - Rutin Baca Al-Qur'an
     # Minimal 1 surat per bulan
 - Rutin berolahraga
+    # Minimal Kardio 1 minggu sekali
